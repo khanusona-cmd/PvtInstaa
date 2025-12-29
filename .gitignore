@@ -16,3 +16,7 @@ Thumbs.db
 *.tmp
 temp/
 tmp/
+
+# Investigation reports (sensitive data)
+INVESTIGATION_*.md
+*_investigation.md
