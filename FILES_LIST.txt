@@ -1,0 +1,111 @@
+================================================================================
+OSINT TOOL - FILE LISTING
+================================================================================
+
+📦 Package: osint-tool-package.tar.gz (4.9 KB)
+   Complete archive with all files
+
+================================================================================
+FILE #1: run_osint.sh (6.1 KB) ⭐ MAIN FILE
+================================================================================
+Type:        Bash Script (executable)
+Lines:       183
+Purpose:     Main OSINT investigation tool
+Features:    - Email and username investigation
+             - GitHub profile validation
+             - Gravatar check
+             - Data breach check (Have I Been Pwned)
+             - Social media link generation
+             - Tool recommendations
+
+Usage:       ./run_osint.sh @username
+             ./run_osint.sh email@example.com
+
+================================================================================
+FILE #2: README.md (3.5 KB)
+================================================================================
+Type:        Markdown Documentation
+Lines:       154
+Purpose:     User guide and documentation
+Contents:    - Quick start guide
+             - Usage examples
+             - Advanced tool installation
+             - Legal considerations
+             - Sample outputs
+
+================================================================================
+FILE #3: RESULTS_SUMMARY.txt (5.3 KB)
+================================================================================
+Type:        Text Report
+Purpose:     Investigation results for xaibali7@gmail.com
+Contents:    - Automated findings
+             - Social media profile links
+             - Search engine queries
+             - Recommended tools
+             - Next steps
+
+================================================================================
+FILE #4: .gitignore (214 bytes)
+================================================================================
+Type:        Git Configuration
+Purpose:     Exclude files from version control
+Excludes:    - Investigation reports (INVESTIGATION_*.md)
+             - Log files
+             - Temporary files
+             - OS-specific files
+
+================================================================================
+FILE #5: DOWNLOAD_INSTRUCTIONS.md (3.8 KB)
+================================================================================
+Type:        Markdown Documentation
+Purpose:     Download and setup guide
+Contents:    - Download methods
+             - Installation steps
+             - Quick start guide
+             - Troubleshooting
+
+================================================================================
+DOWNLOAD OPTIONS
+================================================================================
+
+Option 1: Clone via Git
+   git clone <repository-url>
+
+Option 2: Download Package
+   wget osint-tool-package.tar.gz
+   tar -xzf osint-tool-package.tar.gz
+
+Option 3: Download Individual Files
+   - run_osint.sh       (main script)
+   - README.md          (documentation)
+   - RESULTS_SUMMARY.txt (example report)
+
+================================================================================
+QUICK START
+================================================================================
+
+1. Download run_osint.sh
+2. chmod +x run_osint.sh
+3. ./run_osint.sh @username
+
+================================================================================
+REPOSITORY STRUCTURE
+================================================================================
+
+osint-tool/
+├── run_osint.sh              ⭐ Main executable script
+├── README.md                  📖 User documentation
+├── RESULTS_SUMMARY.txt        📊 Example investigation
+├── DOWNLOAD_INSTRUCTIONS.md   📥 Setup guide
+├── FILES_LIST.txt            📋 This file
+├── .gitignore                🚫 Git exclusions
+└── osint-tool-package.tar.gz 📦 Complete package
+
+================================================================================
+CHECKSUMS (SHA256)
+================================================================================
+
+Run this command to verify file integrity:
+   sha256sum run_osint.sh README.md RESULTS_SUMMARY.txt
+
+================================================================================

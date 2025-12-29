@@ -1,0 +1,147 @@
+================================================================================
+OSINT INVESTIGATION RESULTS FOR: xaibali7@gmail.com
+================================================================================
+
+Investigation completed on: 2025-12-29 07:40:20 UTC
+Username extracted: xaibali7
+
+================================================================================
+QUICK FINDINGS SUMMARY
+================================================================================
+
+✓ EMAIL DETECTED: xaibali7@gmail.com (Gmail/Google account)
+✓ USERNAME: xaibali7
+✗ GitHub profile: NOT FOUND
+✗ Gravatar: NOT FOUND
+ℹ️  Data breach check: Requires manual verification
+
+================================================================================
+PROFILE LINKS TO CHECK (May or may not exist)
+================================================================================
+
+Social Media:
+  • Twitter/X:    https://twitter.com/xaibali7
+  • Instagram:    https://instagram.com/xaibali7
+  • Facebook:     https://facebook.com/xaibali7
+  • LinkedIn:     https://linkedin.com/in/xaibali7
+  • TikTok:       https://tiktok.com/@xaibali7
+  • YouTube:      https://youtube.com/@xaibali7
+  • Reddit:       https://reddit.com/user/xaibali7
+  • Telegram:     https://t.me/xaibali7
+  • Medium:       https://medium.com/@xaibali7
+
+================================================================================
+SEARCH ENGINES & PUBLIC DATA
+================================================================================
+
+Google Searches:
+  https://www.google.com/search?q="xaibali7@gmail.com"
+  https://www.google.com/search?q="xaibali7"
+
+GitHub Search:
+  https://github.com/search?q=xaibali7%40gmail.com&type=users
+
+LinkedIn Search:
+  https://www.linkedin.com/search/results/all/?keywords=xaibali7%40gmail.com
+
+================================================================================
+RECOMMENDED NEXT STEPS
+================================================================================
+
+1. INSTALL HOLEHE (Most Important for Email OSINT)
+   
+   pip3 install holehe
+   holehe xaibali7@gmail.com
+   
+   This will check 120+ websites to find where this email is registered.
+
+2. CHECK DATA BREACHES
+   
+   Visit: https://haveibeenpwned.com/
+   Enter: xaibali7@gmail.com
+   
+   This shows if the email appeared in any known data breaches.
+
+3. USE GHUNT FOR GOOGLE SERVICES
+   
+   git clone https://github.com/mxrch/GHunt
+   cd GHunt
+   pip3 install -r requirements.txt
+   python3 ghunt.py email xaibali7@gmail.com
+   
+   This extracts Google account information (Google Photos, Maps, etc.)
+
+4. RUN SHERLOCK FOR USERNAME
+   
+   pip3 install sherlock-project
+   sherlock xaibali7
+   
+   Searches 300+ websites for the username 'xaibali7'.
+
+5. CHECK EPIEOS
+   
+   Visit: https://epieos.com/
+   Enter: xaibali7@gmail.com
+   
+   Reverse email lookup and Google account enumeration.
+
+6. EMAIL REPUTATION
+   
+   Visit: https://emailrep.io/xaibali7@gmail.com
+   
+   Check email reputation and public appearance.
+
+================================================================================
+WHAT WAS FOUND IN PUBLIC DATA
+================================================================================
+
+From automated checks:
+  - No GitHub profile exists for username 'xaibali7'
+  - No Gravatar profile associated with the email
+  - Email provider: Gmail (Google)
+  - Username pattern: xaibali7 (appears to be a custom handle)
+
+Manual verification needed for:
+  - Social media profiles (check each link above)
+  - Data breach exposure
+  - Google services (Photos, Maps reviews, YouTube)
+  - Professional networks (LinkedIn)
+  - Shopping/Gaming accounts
+  - Forum posts and comments
+
+================================================================================
+IMPORTANT NOTES
+================================================================================
+
+⚠️  Privacy & Legal:
+  - Only publicly available information was searched
+  - Always ensure proper authorization before investigating
+  - Respect privacy laws and platform terms of service
+  - This tool is for legitimate security research and authorized investigations only
+
+ℹ️  Limitations:
+  - Some profiles may be private or use different usernames
+  - Not all platforms were auto-checked (only GitHub)
+  - Manual verification recommended for accuracy
+  - Results depend on target's privacy settings
+
+================================================================================
+FILES GENERATED
+================================================================================
+
+1. INVESTIGATION_xaibali7.md  - Comprehensive investigation report
+2. RESULTS_SUMMARY.txt         - This quick reference file
+3. run_osint.sh                - Enhanced OSINT script (now supports emails!)
+
+================================================================================
+CONTACT & RESOURCES
+================================================================================
+
+For more OSINT tools and techniques:
+  • OSINT Framework: https://osintframework.com/
+  • IntelTechniques: https://inteltechniques.com/tools/
+  • Bellingcat Tools: https://bit.ly/bcattools
+
+================================================================================
+END OF REPORT
+================================================================================
